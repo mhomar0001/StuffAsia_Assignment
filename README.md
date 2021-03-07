@@ -2,7 +2,7 @@
 
 # This project is on Data Analysis in Python which was given by Stuff Asia admin team at 7:33pm on 4, March within 3days timeline. 
 
-1 The problem set is renamed with DataSet.xlsx 
+1. The problem set is renamed with DataSet.xlsx 
  
 2. DataSet.xlsx is the only input file
 
